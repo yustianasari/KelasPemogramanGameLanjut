@@ -1,0 +1,27 @@
+Yustiana Sari
+115103010
+Pemograman Game Lanjut
+
+========================================
+
+1. Analisa Game Zuma
+
+Zuma adalah permainan puzzle video pencocokan-ubin yang diterbitkan oleh PopCap Games (Wikipedia). Game besutan Gamehouse ini pertama kali dirilis pada tanggal 12 Desember 2003 dan dirancang oleh Jason Kapalka. Saat ini game zuma dapat dimainkan dalam versi HP, PDA, IPOD dan PS atau Playstation, serta Game Zuma Deloxe Online. Berbeda dengan saat pertama kali rilis yang hanya dapat dimainkan di komputer dengan spesifikasi Pentiun II 350 MHz Processor, 128 MB RAM dengan DirectX 7.0.
+
+Game ini termasuk dalam genre game teka-teki dimana pemain berperan sebagai kodok batu yang dapat menembakan bola warna-warni dimana bola-bola tersebut akan ditembakan ke-minimal 2 bola berwarna sama yang terus bergerak maju menuju lubang tengkorak emas. Jika pemain bermain menggunakan komputer, pemain hanya perlu menglik mouse kearah bola yang akan dituju.  Semakin dekat kumpulan bola melaju menuju tengkorak, maka lubang tengkorak akan semakin terbuka. Dan jika kumpulan bola tersebut memasuki lubang tengkorak, maka pemain dinyatakan kalah.  
+
+Game ini merupakan game yang asik dan popular karena mudah untuk dimainkan oleh semua umur. Meskipun terlihat mudah, namun game ini memiliki tantangan-tantangan yang seru untuk melahap level per level. Semakin tinggi level maka kecepetan kumpulan bola yang bergerak maju akan semakin meningkat sehingga pemain dituntut untuk semakin cepat menembakan bola ke warna yang sama. Ditambah dengan efek musik yang mendebarkan, membuat game ini semakin seru untuk dimainkan. 
+Awalnya pemain akan merasa santai karena kecepatan masih lambat, namun semakin bertambahnya kecepatan laju bola, pemain akan semakin fokus dan menikmati game ini . Zuma dapat melatih kecepatan dan ketepatan kita dalam mencocokan warna. Dalam kehidupan sehari-hari, game zuma menggambarkan manusia yang kadang harus dapat mengambil keputusan yang tepat dalam waktu yang singkat. 
+
+
+2. Analisa Game Candy Crush Saga
+
+Candy Crush Saga merupakan permainan bergenre “match three” yang dirilis pada tanggal 12 April 2012 untuk facebook, dan kemudian dirilis untuk telepon pintar pada tanggal 14 November 2012. Candy Crush Saga adalah pengembangan dari permainan Candy Crush (Wikipedia).
+
+Sesuai dengan nama permainannya, tampilan Candy Crush dipenuhi oleh beraneka warna permen dimana pemain harus menukar atau membalikkan posisi permen yang berdekatan secara vertikal atau horizontal untuk menciptakan barisan permen dengan tiga atau lebih warna yang sama. Tidak ada keahlian khusus yang harus dimiliki pemain untuk memainkan permainan ini karena faktor keberuntungan lah yang menjadi kunci utama untuk dapat menyelesaikan setiap levelnya. Namun, meskipun begitu, perencanaan yang buruk juga akan membuat permainan akan berlangsung alot dan skor yang diperoleh akan lebih rendah.
+
+Setiap level pada Candy Crush dibuat tampak sederhana sehingga pemain akan merasa mampu menyelesaikannya. Hal tersebut terjadi terus menerus sehingga menimbulkan kecanduan bermain, Namun perubahan disetiap levelnya yang tidak jauh berbeda semakin lama akan semakin membuat pemain bosan. 
+
+Untuk kehidupan sehari-hari, Game Candy Crush Saga ini melatih kita untuk menata sesuatu dengan rapih dan teratur. Dimana permen harus ditata berdasarkan warna yang sama, dan dibutuhkan perencanaan yang baik dalan menatanya agar game mendapat poin yang banyak. Begitu pula yang terjadi di dunia nyata, yaitu segala sesuatu hal yang ditata dengan rapih dan terencana akan terlihat lebih baik dan teratur. 
+
+
